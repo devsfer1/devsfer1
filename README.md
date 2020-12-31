@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Olá, me chamo Fernando Chaves 👨‍💻
 
-I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
+Eu sou Desenvolvedor Front-end e UI/UX Designer nas horas vagas. Amo tecnologia e adoro aprender coisas novas.
 
 #### 🔭 Atulmente estou procurando novas oportunidades como Desenvolvedor Front-end .
 
@@ -11,7 +11,7 @@ Aqui estão algumas tecnologias que eu aprendi durante minha jornada de aprendiz
 
 * 🌐 HTML 
 * 🎨 CSS | SASS
-* 👨‍💻 :javascript: Javascript 
+* 👨‍💻 Javascript 
 * :octocat: Git | Github
 
 

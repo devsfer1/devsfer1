@@ -11,7 +11,7 @@ Aqui estão algumas tecnologias que eu aprendi durante minha jornada de aprendiz
 
 * 🌐 HTML 
 * 🎨 CSS | SASS
-* 👨‍💻 Javascript 
+* 👨‍💻 :javascript: Javascript 
 * :octocat: Git | Github
 
 

@@ -2,7 +2,7 @@
 
 Eu sou Desenvolvedor Front-end e UI/UX Designer nas horas vagas. Amo tecnologia e adoro aprender coisas novas.
 
-#### 🔭 Atulmente estou procurando novas oportunidades como Desenvolvedor Front-end .
+#### 🔭 Atulmente estou me aprimorando em Javascript e procurando novas oportunidades como Desenvolvedor Front-end .
 
 
 ## ⚡ Tech Stack

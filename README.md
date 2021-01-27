@@ -1,13 +1,14 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Olá, me chamo Fernando Chaves 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, my name is Fernando Chaves
+ 👨‍💻
 
-Eu sou Desenvolvedor Front-end e UI/UX Designer nas horas vagas. Amo tecnologia e adoro aprender coisas novas.
+I am a Front-End Developer, aspiring to be Fullstack using React.JS & Node.JS. I love technology and I love learning new things
 
-#### 🔭 Atulmente estou me aprimorando em Javascript e procurando novas oportunidades como Desenvolvedor Front-end .
+#### 🔭 I am currently improving myself in Javascript and looking for new opportunities as a Front-End Developer.
 
 
 ## ⚡ Tech Stack
 
-Aqui estão algumas tecnologias que eu aprendi durante minha jornada de aprendizado.
+Here are some technologies that I learned during my learning journey.
 
 * 🌐 HTML 
 * 🎨 CSS | SASS
@@ -15,14 +16,12 @@ Aqui estão algumas tecnologias que eu aprendi durante minha jornada de aprendiz
 * :octocat: Git | Github
 
 
-## 📫 Entre em contato
+## 📫 Contact me
 - LinkedIn - [Fernando Chaves](https://www.linkedin.com/in/fernandochavesfc/)
 - Twitter - [@devsfe](https://twitter.com/devsfe)
 - Portfólio - [/fernandochaves.net](https://fernandochaves.net/)
 
- Ou me de um pouco de  ♥ no [email](mailto:fernando.chaves16@hotmail.com) .
-
-
+ Or give me a little ♥ on [email](mailto:fernando.chaves16@hotmail.com) .
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=devsfe/devsfe)
 

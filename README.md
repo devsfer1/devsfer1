@@ -2,8 +2,8 @@
 
 I am a Full-Stack Developer passionate about the best and latest technologies on the market, I am currently developing projects in Javascript, React.js & Node.js to increasingly improve myself.
 
-- 🔭 I am currently developing on Javascript, React.js and Node.js.
-- 🌱 I have experience with HTML, CSS, SASS, Javascript, React.Js, & Node.Js.
+- 🔭 I am currently developing on Javascript, React.Js, React Native, Node.Js and Express.Js.
+- 🌱 I have experience with HTML, CSS, SASS, Javascript, React.Js, React Native, Node.Js & Express.Js.
 - See my LinkedIn: [Fernando Chaves](https://www.linkedin.com/in/fernandochavesfc/)
 
 <div align="center" >

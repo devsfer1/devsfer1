@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 <img src="https://user-images.githubusercontent.com/58652794/119760745-ea3eaf00-be80-11eb-8349-b554c94695a7.png">
 
 I am a Front-end Developer passionate about the best and latest technologies on the market.

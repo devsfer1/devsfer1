@@ -2,7 +2,7 @@
 
 I am a Front-end Developer passionate about the best and latest technologies on the market.
 
-- 🔭 Currently working at @GrupoADAC
+- 🔭 Currently working at @Codeleap
 - 🌱 Experience with Typescript, Tailwind, React, React Native, Gatsby and Node.Js.
 - See my LinkedIn: [Fernando Chaves](https://www.linkedin.com/in/fernandochavesfc/)
 

@@ -3,7 +3,7 @@
 I am a Front-end Developer passionate about the best and latest technologies on the market.
 
 - 🔭 Currently working at @Codeleap
-- 🌱 Experience with Typescript, Tailwind, React, Redux, React Native, Gatsby, Next.JS, and Node.Js.
+- 🌱 Experience with Typescript, Tailwind, Styled-Components, React, Redux, React Native, Gatsby, Next.JS, and Node.Js.
 - See my LinkedIn: [Fernando Chaves](https://www.linkedin.com/in/fernandochavesfc/)
 
 <div align="left" >

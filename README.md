@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Front-end Developer passionate about the best and latest technologies on the market.
+I am a Full-stack Developer passionate about the best and latest technologies on the market.
 
 - 🔭 Currently working at @Codeleap
 - 🌱 Experience with Typescript, Tailwind, Styled-Components, React, Redux, React Native, Gatsby, Next.JS, and Node.Js.

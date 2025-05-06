@@ -2,7 +2,7 @@
 
 I am a Full-stack Developer passionate about the best and latest technologies on the market.
 
-- 🔭 Currently working at @Codeleap
+- 🔭 Currently working at @Modern.tech
 - 🌱 Experience with Typescript, Tailwind, Styled-Components, React, Redux, React Native, Gatsby, Next.JS, and Node.Js.
 - See my LinkedIn: [Fernando Chaves](https://www.linkedin.com/in/fernandochavesfc/)
 
